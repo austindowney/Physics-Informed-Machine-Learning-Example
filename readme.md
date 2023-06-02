@@ -10,6 +10,9 @@ This repo contains vibration data for a cantilever beam as shown below.
 
 A video of the system can be found at https://www.youtube.com/watch?v=50uMt-VIjR8
 
+
+https://github.com/austindowney/Physics-Informed-Machine-Learning-Example/assets/15316737/72b3f17d-7ef8-49c8-93ec-f643a660f785
+
 ## license
 
 
