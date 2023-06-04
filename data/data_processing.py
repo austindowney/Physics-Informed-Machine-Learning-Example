@@ -150,7 +150,7 @@ surf = ax.plot_surface(X_dense, Y_dense,  Z_dense_log, cmap=cm.viridis,rcount=20
 ax.set_ylabel('Frequency (Hz)')
 ax.set_xlabel('Time (s)')
 ax.set_zlabel('log$_{10}$[acceleration] (m/s$^2$)')
-plt.title('Beam Spectrogram 3D Log Scape')
+plt.title('Beam Spectrogram 3D in Semi-log')
 ax.view_init(elev=54, azim=-61, roll=0)
 
 # fig.colorbar(surf, shrink=0.5, aspect=15,location = 'left')

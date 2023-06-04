@@ -15,7 +15,7 @@ The time-frequency response of the beam is shown in the spectrogram of the syste
 <img src="data/Spectrogram_3D_Log.png" alt="drawing" width="700"/>
 </p>
 <p align="center">
-3D Spectrogram of the beam in log base 10 scale. An interactive 3D plot of the figure can be found here 
+3D Spectrogram of the beam in log base 10 scale. An interactive 3D plot of the figure can be found in the data folder with the name "3D_plot.html".
 </p>
 
 ## License
