@@ -15,7 +15,7 @@ The time-frequency response of the beam is shown in the spectrogram of the syste
 <img src="data/Spectrogram_3D_Log.png" alt="drawing" width="700"/>
 </p>
 <p align="center">
-3D Spectrogram of the beam in log base 10 scale.
+3D Spectrogram of the beam in log base 10 scale. An interactive 3D plot of the figure can be found here 
 </p>
 
 ## License
@@ -28,10 +28,10 @@ This work is licensed under a
 
 
 
-
-
-
-
+## Sources
+1. https://www.youtube.com/watch?v=R4ZvksarJ1Q&t=31s&ab_channel=DigitalFutures%3AResearchHubforDigitalization
+1. Rudd, Keith. Solving partial differential equations using artificial neural networks. Diss. Duke University, 2013. https://www.proquest.com/docview/1477561981?pq-origsite=gscholar&fromopenview=true
+1. Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations." Journal of Computational physics 378 (2019): 686-707. https://www.sciencedirect.com/science/article/pii/S0021999118307125
 
 
 
