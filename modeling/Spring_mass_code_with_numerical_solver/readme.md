@@ -1,11 +1,9 @@
 # EOM code with numerical solver
-1.
-1.
-1.
+
 
 
 <p align="center">
-<img src="spring-mass-system.jpg" alt="drawing" width="400"/>
+<img src="spring-mass-system.jpg" alt="drawing" width="800"/>
 </p>
 <p align="center">
 	The undamped spring-mass system used in this work to model a simply supported beam.
