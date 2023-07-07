@@ -15,3 +15,5 @@ This folder contains modeling information
 [EOM code with numerical solver](EOM_code_with_numerical_solver)
 1. A basic EOM for a simply supported beam with a numerical solver to solve each time step. 
 
+[FEA beam in time example](FEA beam in time example)
+1. An example of a fixed-free Euler-Bernoulli beam under excitation written in python.
